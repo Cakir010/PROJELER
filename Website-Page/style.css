@@ -46,7 +46,7 @@ span {
 /* ============SHOWCASE=============== */
 
 .text {
-  background-image: url(/showcase.jpg);
+  background-image: url(./image/showcase.jpg);
   height: 50vh;
   background-attachment: fixed;
   background-size: cover;
@@ -202,7 +202,7 @@ span {
   color: white;
   border: none;
   background-color: #e84910;
-  border-radius: 5px;
+  border-radius: 2px;
 }
 
 .frm {
